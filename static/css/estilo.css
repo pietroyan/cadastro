@@ -1,0 +1,40 @@
+img{
+    width: 200px;
+    margin: 0 auto;
+    border-radius: 20px;
+    
+}
+.container{
+    text-align: center;
+    color: white;
+}
+/* .movimentos{
+
+} */
+body{
+    background-image: url('https://img.freepik.com/fotos-premium/fundo-3d-abstrato-futurista-exclusivo_893571-5779.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#botao-voltar{
+        padding: 10px 20px;
+        font-size: 16px;
+        background-color: #3498db;
+        color: white;
+        border: none;
+        cursor: pointer;
+        border-radius: 5px;
+} 
+#botao-voltar:hover{
+        background-color: #2980b9;
+}
+th{
+    justify-content: center;
+    align-items: center;
+    width: 10%;
+    background-color: aqua;
+    color: black
+}
+/* h1{
+    text-align: ;
+} */
